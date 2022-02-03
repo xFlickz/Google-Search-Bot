@@ -10,7 +10,7 @@ License -> https://github.com/FayasNoushad/Google-Search-Bot/blob/main/LICENSE
 ## Deploy
 
 ```sh
-git clone https://github.com/FayasNoushad/Google-Search-Bot/tree/main
+git clone https://github.com/XFlickz/Google-Search-Bot/tree/main
 cd Google-Search-Bot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
@@ -32,5 +32,5 @@ python3 main.py
 - [Fayas Noushad](https://github.com/FayasNoushad)
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Google API](https://api.abirhasan.wtf/google)
-
+- [XFlickz](https://github.com/XFlickz)
 ---
